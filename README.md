@@ -1,10 +1,10 @@
 # Hi there, I'm Akash Devulapally 👋
 
-I'm passionate about **Data Science**, **Machine Learning**, **Cloud Technologies**, and **Software Development**. I love solving real-world problems using AI, automation, and scalable cloud solutions. Always eager to learn, collaborate, and build innovative projects!
+I'm passionate about **Data Science**, **Artificial Intelligence**, **Machine Learning**, **Cloud Technologies**, and **Software Development**. I love solving real-world problems using AI, automation, and scalable cloud solutions. Always eager to learn, collaborate, and build innovative projects!
 
 ## 📌 About Me:
 - 🎓 **Master's in Computer Science** from *Campbellsville University*
-- 💼 **Data Science | Data Engineering | Cloud Computing**
+- 💼 **Data Scientist | Data Engineering | Data Analytics | Data Analyst | Cloud Computing**
 - 🌎 Proficient in **Python, Spark, AWS, SQL, React.js, Terraform**
 - 📊 Experienced in **Data Analytics, Visualization, and AI model deployment**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akashdevulapally/) | [GitHub](https://github.com/Lucky-akash321)
