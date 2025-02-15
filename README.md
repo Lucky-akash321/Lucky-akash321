@@ -9,7 +9,7 @@ I'm passionate about **Data Science**, **Machine Learning**, **Cloud Technologie
 - 📊 Experienced in **Data Analytics, Visualization, and AI model deployment**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akashdevulapally/) | [GitHub](https://github.com/Lucky-akash321)
 
-# Akash's GitHub Projects
+## 🚀 My Notable Projects:
 
 ## Data Science
 
