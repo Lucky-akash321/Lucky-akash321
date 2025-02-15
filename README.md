@@ -104,8 +104,6 @@ I'm passionate about **Data Science**, **Machine Learning**, **Cloud Technologie
 - **AWS Certified Solutions Architect** | **IBM Data Science Professional**
 - **Microsoft Certified: Azure Data Engineer Associate**
 
-## 🚀 My Notable Projects:
-
 
 ## 📫 Get in Touch
 📧 **Email:** akashdvp99@gmail.com  
