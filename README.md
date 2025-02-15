@@ -25,32 +25,9 @@ I'm passionate about **Data Science**, **Machine Learning**, **Cloud Technologie
 - **AWS Certified Solutions Architect** | **IBM Data Science Professional**
 - **Microsoft Certified: Azure Data Engineer Associate**
 
-## 🚀 My GitHub Projects
-Check out all my projects on [GitHub](https://github.com/Lucky-akash321?tab=repositories) for more details!
+These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
 
-### 🖥 Data Science & Machine Learning
-| Project | Description |
-|---------|-------------|
-| [Image Classification using CNN](https://github.com/Lucky-akash321/Image-Classification-CNN) | Built a CNN model achieving 96% accuracy on MNIST dataset. Deployed using Flask. |
-| [Sentiment Analysis using NLP](https://github.com/Lucky-akash321/Sentiment-Analysis-NLP) | Created a sentiment analysis tool with improved accuracy and data visualization. |
-| [Tesla Stock Data Analysis](https://github.com/Lucky-akash321/Tesla-Stock-Analysis) | Automated stock data extraction and visualization using Streamlit. |
-| [Emojinator Application](https://github.com/Lucky-akash321/Emojinator) | Developed an AI-powered tool to suggest relevant emojis using NLP. |
-| [Dynamic Food Delivery Optimization System](https://github.com/Lucky-akash321/Food-Delivery-Optimization) | Optimized delivery routes using real-time traffic data and ML. |
-| [Data Science Ecosystem Integration](https://github.com/Lucky-akash321/Data-Science-Ecosystem) | Streamlined data analysis workflows with Pandas, NumPy, and Tableau. |
-
-### ☁️ Cloud & DevOps
-| Project | Description |
-|---------|-------------|
-| [Cloud-Based CI/CD Pipeline](https://github.com/Lucky-akash321/CI-CD-Automation) | Automated deployment on Azure DevOps & Kubernetes using Terraform and Docker. |
-| [Infrastructure Automation with Terraform](https://github.com/Lucky-akash321/Terraform-Infrastructure) | Provisioned cloud resources on AWS, reducing setup time by 60%. |
-| [Cloud Security Implementation](https://github.com/Lucky-akash321/Cloud-Security) | Implemented security best practices in AWS/Azure environments. |
-
-### 📊 Data Engineering & Analytics
-| Project | Description |
-|---------|-------------|
-| [Scalable Order Management Platform](https://github.com/Lucky-akash321/Order-Management-System) | Built a full-stack system with PostgreSQL, Flask, and React.js. |
-| [Customer Behavior Analytics](https://github.com/Lucky-akash321/Customer-Analytics) | Analyzed customer purchase patterns, reducing churn by 25%. |
-| [Payment Reminder Application](https://github.com/Lucky-akash321/Payment-Reminder) | Developed an app to automate overdue payment reminders. |
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)  [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org) [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)   [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org) [![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org) [![](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org) [![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html) [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com) [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com) [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-us/) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com) [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html) [![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org)
 
 ## 📈 GitHub Stats
 ![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucky-akash321&show_icons=true&theme=radical)
